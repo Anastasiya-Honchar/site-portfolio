@@ -1,0 +1,19 @@
+.shadow {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+
+.google {
+    color: #B40404; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
+.facebook{
+    color: #0B3861; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
+.instagram {
+    color:  #8B008B; !important;
+    font-size: 26px; !important;
+    padding-right: 100px; !important;
+}
